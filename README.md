@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [profile.clementlucas.fr](profile.clementlucas.fr)
 
+- ⚡ Fun fact **I'm a coding enjoyer but I'm also drawn to more artistic tools like Photoshop or Blender, so maybe I'll be able to combine the two worlds!**
+
 - 📫 How to reach me **clement_lucas@telecom-sudparis.eu**
 
 <h3 align="left">Connect with me:</h3>
