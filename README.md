@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">Passionate French network and software engineer, soon graduating from Télécom SudParis, currently interning at Bouygues Télécom Entreprise</h3>
+<h3 align="center">Passionate French network and software engineer, soon graduating from Télécom SudParis, currently interning at Bouygues Telecom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulray&label=Profile%20views&color=0e75b6&style=flat" alt="sulray" /> </p>
 
