@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">Passionate French network and software engineer, soon graduating from Télécom SudParis, currently interning at Bouygues Telecom</h3>
+<h3 align="center">Passionate French network and software engineer, graduated from Télécom SudParis, currently working at CNS Communications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulray&label=Profile%20views&color=0e75b6&style=flat" alt="sulray" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulray" alt="sulray" /></a> </p>
 
-- 🔭 I’m currently working on [Sulray.github.io](https://github.com/Sulray/Sulray.github.io)
 
-- 🌱 I’m currently learning **Astro, Typescript, React, Node.js**
+- 🌱 My **current focus** is to **improve my skills in network automation**, especially in **Ansible**
+<!-- - 🔭 I’m currently working on [Sulray.github.io](https://github.com/Sulray/Sulray.github.io) -->
 
 <!-- Dead link -->
 <!-- - 👨‍💻 All of my projects are available at [profile.clementlucas.fr](https://profile.clementlucas.fr) -->
 
-- ⚡ Fun fact **I'm a coding enjoyer but I'm also drawn to more artistic tools like Photoshop or Blender, so maybe I'll be able to combine the two worlds!**
+- ⚡ Fun fact, I'm a **coding enjoyer** but I'm also drawn to more **artistic tools** like Photoshop or Blender, so **maybe I'll be able to combine the two worlds!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulray&" alt="sulray" /></p>
 
-<!-- Plément © Pucas-->
+<!-- Clément © Lucas-->
